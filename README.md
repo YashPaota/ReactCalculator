@@ -2,7 +2,7 @@
 Created a Calculator With help of ReactJs ad JavaScript.It allows user to perform Functionalities like Addition , Subtraction , Division and Multiplication using ReactJS , JavaScript and css.
 
 ## Live Link
-Calculator :-
+Calculator :- https://yashpaota.github.io/ReactCalculator/
 ## Setup and Running the Application
 
 To set up and run this application, please follow these steps:
