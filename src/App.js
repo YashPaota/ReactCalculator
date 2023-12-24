@@ -22,7 +22,8 @@ const App = () => {
         }
     }
     return (
-           <>
+           <div className="main">
+             <h4>Calculate Here!</h4>
              <div className="container">
 
                 <form>
@@ -50,7 +51,7 @@ const App = () => {
                     <button className="highlight" onClick = {calculate} id="result">=</button>
                 </div>
              </div>
-           </>         
+           </div>         
  );
 };
 
